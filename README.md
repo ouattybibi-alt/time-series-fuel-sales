@@ -43,4 +43,4 @@ Reconstructed from the PDF appendix of the report — original R scripts not pre
 
 ## Full write-up
 
-Full methodology, plots and statistical results are in the project report (available on request).
+See `Time_Series_Fuel_Sales_Report.pdf` for the full methodology, plots and statistical results.
