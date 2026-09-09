@@ -2,7 +2,7 @@
 
 ARMA and SARIMA modelling of monthly gasoline and diesel sales in France, with in-sample diagnostics, out-of-sample validation, and 12-month forecasts.
 
-Academic project (M2 Actuariat, ISFA), supervised by Prof. Christian Robert. Co-authored with C. A. D. Kouamé and S. Ouattara.
+Academic project (M2 Actuariat, ISFA), Co-authored with C. A. D. Kouamé and S. Ouattara.
 
 ## What this does
 
